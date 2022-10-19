@@ -1,7 +1,4 @@
 
-html {
-   box-sizing: border-box;
- }
 .Background{
     background-color: #edf2c5;
     height: 880px;
@@ -11,7 +8,7 @@ html {
 .FirstRow{
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: baseline;
     
 }
 .BigHeader{
@@ -68,7 +65,7 @@ html {
     flex-direction: row;
     background-color: #778a50;
     border-radius: 3px;
-    margin: 5px 0 20px 160px;
+    margin: 0 0 20px 160px;
 }
 .PumpkinImg{
     margin-left: 160px;
